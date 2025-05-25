@@ -1,4 +1,5 @@
 # 👩🏻‍🎨 HTML5 Canvas Practical Project
+## [Live Preview](https://haneen1705.github.io/HTML5-Canvas-Practical-Project/)
 This is my project for the practical exam in FCIS MU 2025 - Graphics Course (IS223P)
 ### TA: Eng. Nourmeen Lotfy
 #### 🔗 [Project Inspiration](https://www.youtube.com/watch?v=31R_-Gbgrj4&t=389s)
