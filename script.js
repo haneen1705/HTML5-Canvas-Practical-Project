@@ -5,6 +5,10 @@ const context = my_canvas.getContext('2d');
 my_canvas.width = window.innerWidth;
 my_canvas.height = window.innerHeight;
 
+window.addEventListener('resize',()=>{
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+});
 
 let waterDropsArray = [];
 let waterParticlesArray = [];
