@@ -111,7 +111,7 @@ function renderWaterDrops()
 function animate() 
 {
     // fill the canvas with the selected color
-    context.fillStyle = 'rgb(131, 108, 141)';
+    context.fillStyle = 'rgb(106, 186, 239)';
     context.fillRect(0,0,my_canvas.width,my_canvas.height);
     
     // start drawing the line at the bottom
